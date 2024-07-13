@@ -17,7 +17,8 @@ My strength lies in my outstanding **observational skills**.
 
 
 
-Backend development involves maintaining and improving systems that users don't see. What attracts me to this role is the ability to enhance system stability and efficiency through meticulous observation and analysis.
+Backend development involves maintaining and improving systems that users don't see.<br>
+What attracts me to this role is the ability to enhance system stability and efficiency through meticulous observation and analysis.
 
 
 Errors due to typos are common in the development process, making backend development a role where I am confident I can leverage my strongest skill.
