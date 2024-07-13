@@ -7,22 +7,16 @@
 	<h3>self-introduction</h3>
 	
 	
-I'm Oh Ye-rang, aspiring to be a backend developer.<br>
+I'm Oh Ye-rang, aspiring to be a backend developer.<br><br>
 
 
 
 
-My strength lies in my outstanding **observational skills**.<br>
-
-
-
-
-Backend development involves maintaining and improving systems that users don't see.<br>
-What attracts me to this role is the ability to enhance system stability and efficiency through meticulous observation and analysis.<br>
+My strength lies in my outstanding **observational skills**.<br><br>
 
 
 Errors due to typos are common in the development process,<br>
-making backend development a role where I am confident I can leverage my strongest skill.<br>
+making backend development a role where I am confident I can leverage my strongest skill.<br><br>
 </div>
 
 
