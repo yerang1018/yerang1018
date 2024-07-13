@@ -1,69 +1,72 @@
-<div 정렬=중앙>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=yerang%20Github&fontSize=90" />	
-</div>
-
-<div 정렬=중앙>
-	<h3>자기소개</h3>
-
-  
-  <p>백엔드 개발자를 꿈꾸는 오예랑입니다.</p>
-
-
-  <p>저의 장점은 뛰어난 __관찰력__입니다. 틀린 부분을 찾아내는 것은 제가 가장 자신 있는 역량입니다.</p>
-
-
-  <p>백엔드 개발자 교육을 받으면서 다른 사람들의 코드에서 __오타를 잘 찾아내는 능력__으로 주목받았습니다.</p>
-  <p>강사님도 종종 저에게 다른 수강생들의 오타를 찾아달라고 요청하셨습니다.</p>
-
-
-  <p>백엔드 개발은 사용자에게 보이지 않는 시스템을 유지보수하고 개선하는 중요한 역할을 합니다.</p>
-  <p>이러한 역할에 매력을 느끼는 이유는 세심한 관찰력과 분석 능력을 통해 시스템의 안정성을 높이고 효율성을 개선할 수 있기 때문입니다.</p>
-  <p>개발 과정에서 오타로 인한 오류가 흔하기 때문에, 제가 가장 자신 있는 역량을 발휘할 수 있는 직무라고 확신합니다.</p>
-
-
-  <p>저는 쪽집게처럼 오타를 찾아내어 오류를 빠르게 수정하고 업무 효율성을 높이며,</p>
-  <p>더 나아가 사용자에게 더 나은 서비스를 제공하는 백엔드 개발자로 기여하고 싶습니다.</p>
-</div>
-
-<div 정렬=중앙>
-  <h3>✨ license ✨</h3>
-  <p>2024/06/18  정보처리기사</p>
-  <p>2023/10/06  리눅스마스터 2급</p>
-  <p>2022/04/08  컴퓨터활용능력 1급</p>
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yerang%20Github&fontSize=90" />	
 </div>
 
 
-<div 정렬=중앙>
-  <h3>📚 skill 📚</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=콘다-포지&logoColor=화이트" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=화이트" />
-  <img src="https://img.shields.io/배지/오라클SQL-F80000?style=플랫&logo=오라클&logo색=화이트" />
-  
+<div align=center>
+	<h3>self-introduction</h3>
+	
+	
+	<p>I'm Oh Ye-rang, aspiring to be a backend developer.</p>
 
-  <img src="https://img.shields.io/배지/자바스크립트-F7DF1E?스타일=플랫&로고=자바스크립트&로고색=흰색" />
-	<img src="https://img.shields.io/배지/HTML5-E34F26?style=플랫&logo=HTML5&logo색상=화이트" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=화이트" />
+
+	<p>My strength lies in my outstanding **observational skills**. I excel at identifying errors and discrepancies.</p>
+
+
+	<p>While studying to become a backend developer, I gained recognition for my ability to **spot typos in others' code**. Instructors often asked me to help find typos in other students' work.</p>
+
+
+	<p>Backend development involves maintaining and improving systems that users don't see. What attracts me to this role is the ability to enhance system stability and efficiency through meticulous observation and analysis.</p>
+
+
+	<p>Errors due to typos are common in the development process, making backend development a role where I am confident I can leverage my strongest skill.</p>
+
+
+	<p>Like a crab, I swiftly find and correct errors, thereby increasing work efficiency and aiming to provide better services to users.</p>
+
+
+	<p>I aspire to contribute as a backend developer who not only fixes errors efficiently but also enhances service delivery for users.</p>
+
+
+<div align=center>
+  	<h3>✨ license ✨</h3>
+  	<p>2024/06/18  정보처리기사</p>
+  	<p>2023/10/06  리눅스마스터 2급</p>
+  	<p>2022/04/08  컴퓨터활용능력 1급</p>
 </div>
 
 
-<div 정렬=중앙>
+<div align=center>
+  	<h3>📚 skill 📚</h3>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+
+
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+
+
+<div align=center>
 	<h3>🛠 tool 🛠</h3>
-  <img src="https://img.shields.io/배지/이클립스%20IDE-2C2255?style=플랫&logo=이클립스IDE&logo색상=화이트" />
-	<img src="https://img.shields.io/배지/비주얼스튜디오코드-007ACC?style=플랫&logo=비주얼스튜디오코드&logo색상=화이트" />
-
-  
-	<img src="https://img.shields.io/배지/톰캣-F8DC75?style=플랫&logo=아파치톰캣&logoColor=화이트" />
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 </div>
 
 
-<div 정렬=중앙>
+<div align=center>
 	<h3>👩🏻‍💻 blog 👩🏻‍💻</h3>
-   <a href="https://osl1018.tistory.com">
-		<img src="https://img.shields.io/badge/블로그-FF9800?style=플랫&logo=블로거&logo색상=화이트" />
+   	<a href="https://osl1018.tistory.com">
+	<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 </div>
 
-
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerang1018&layout=compact"><br><br>
+</div>
 
 
