@@ -7,21 +7,21 @@
 	<h3>self-introduction</h3>
 	
 	
-I'm Oh Ye-rang, aspiring to be a backend developer.
+I'm Oh Ye-rang, aspiring to be a backend developer.<br>
 
 
 
 
-My strength lies in my outstanding **observational skills**.
+My strength lies in my outstanding **observational skills**.<br>
 
 
 
 
 Backend development involves maintaining and improving systems that users don't see.<br>
-What attracts me to this role is the ability to enhance system stability and efficiency through meticulous observation and analysis.
+What attracts me to this role is the ability to enhance system stability and efficiency through meticulous observation and analysis.<br>
 
 
-Errors due to typos are common in the development process, making backend development a role where I am confident I can leverage my strongest skill.
+Errors due to typos are common in the development process, making backend development a role where I am confident I can leverage my strongest skill.<br>
 </div>
 
 
@@ -30,7 +30,7 @@ Errors due to typos are common in the development process, making backend develo
   	<h3>✨ license ✨</h3>
   	<p>2024/06/18  정보처리기사</p>
   	<p>2023/10/06  리눅스마스터 2급</p>
-  	<p>2022/04/08  컴퓨터활용능력 1급</p>
+  	<p>2022/04/08  컴퓨터활용능력 1급</p><br>
 </div>
 
 
@@ -45,7 +45,7 @@ Errors due to typos are common in the development process, making backend develo
 <div align=center>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /><br>
 </div>
 
 
@@ -55,7 +55,7 @@ Errors due to typos are common in the development process, making backend develo
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /><br>
 </div>
 
 
@@ -64,7 +64,7 @@ Errors due to typos are common in the development process, making backend develo
    	<a href="https://osl1018.tistory.com">
 	<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-</div>
+</div><br>
 
 
 
