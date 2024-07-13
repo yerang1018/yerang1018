@@ -13,7 +13,7 @@ I'm Oh Ye-rang, aspiring to be a backend developer.<br><br>
 
 
 My strength lies in my outstanding **observational skills**.<br><br>
-
+In team projects, I also contributed by identifying and correcting typos in teammates' code.<br>
 
 Errors due to typos are common in the development process,<br>
 making backend development a role where I am confident I can leverage my strongest skill.<br><br>
